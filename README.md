@@ -1,1 +1,1 @@
-# CS329E_Term_Project
+# Predicting Wafer Chip Defects
